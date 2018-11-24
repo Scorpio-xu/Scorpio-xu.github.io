@@ -98,9 +98,9 @@
     
       <category term="Python" scheme="https://qiming.info/tags/Python/"/>
     
-      <category term="MNIST" scheme="https://qiming.info/tags/MNIST/"/>
-    
       <category term="回归" scheme="https://qiming.info/tags/%E5%9B%9E%E5%BD%92/"/>
+    
+      <category term="MNIST" scheme="https://qiming.info/tags/MNIST/"/>
     
   </entry>
   
