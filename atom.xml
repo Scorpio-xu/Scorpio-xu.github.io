@@ -58,9 +58,9 @@
       <category term="深度学习" scheme="https://qiming.info/categories/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0/"/>
     
     
-      <category term="分类" scheme="https://qiming.info/tags/%E5%88%86%E7%B1%BB/"/>
-    
       <category term="神经网络" scheme="https://qiming.info/tags/%E7%A5%9E%E7%BB%8F%E7%BD%91%E7%BB%9C/"/>
+    
+      <category term="分类" scheme="https://qiming.info/tags/%E5%88%86%E7%B1%BB/"/>
     
       <category term="TensorFlow" scheme="https://qiming.info/tags/TensorFlow/"/>
     
@@ -90,9 +90,9 @@
       <category term="深度学习" scheme="https://qiming.info/categories/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0/"/>
     
     
-      <category term="分类" scheme="https://qiming.info/tags/%E5%88%86%E7%B1%BB/"/>
-    
       <category term="神经网络" scheme="https://qiming.info/tags/%E7%A5%9E%E7%BB%8F%E7%BD%91%E7%BB%9C/"/>
+    
+      <category term="分类" scheme="https://qiming.info/tags/%E5%88%86%E7%B1%BB/"/>
     
       <category term="TensorFlow" scheme="https://qiming.info/tags/TensorFlow/"/>
     
@@ -207,11 +207,11 @@
     
       <category term="Spark" scheme="https://qiming.info/tags/Spark/"/>
     
+      <category term="分类" scheme="https://qiming.info/tags/%E5%88%86%E7%B1%BB/"/>
+    
       <category term="特征转换" scheme="https://qiming.info/tags/%E7%89%B9%E5%BE%81%E8%BD%AC%E6%8D%A2/"/>
     
       <category term="Pipeline" scheme="https://qiming.info/tags/Pipeline/"/>
-    
-      <category term="分类" scheme="https://qiming.info/tags/%E5%88%86%E7%B1%BB/"/>
     
       <category term="决策树" scheme="https://qiming.info/tags/%E5%86%B3%E7%AD%96%E6%A0%91/"/>
     
@@ -237,9 +237,9 @@
     
       <category term="Spark" scheme="https://qiming.info/tags/Spark/"/>
     
-      <category term="RDD" scheme="https://qiming.info/tags/RDD/"/>
-    
       <category term="DataFrame" scheme="https://qiming.info/tags/DataFrame/"/>
+    
+      <category term="RDD" scheme="https://qiming.info/tags/RDD/"/>
     
       <category term="CSV" scheme="https://qiming.info/tags/CSV/"/>
     
@@ -265,13 +265,13 @@
     
       <category term="Spark" scheme="https://qiming.info/tags/Spark/"/>
     
-      <category term="分类" scheme="https://qiming.info/tags/%E5%88%86%E7%B1%BB/"/>
-    
       <category term="神经网络" scheme="https://qiming.info/tags/%E7%A5%9E%E7%BB%8F%E7%BD%91%E7%BB%9C/"/>
     
       <category term="MLPC" scheme="https://qiming.info/tags/MLPC/"/>
     
       <category term="多层感知器" scheme="https://qiming.info/tags/%E5%A4%9A%E5%B1%82%E6%84%9F%E7%9F%A5%E5%99%A8/"/>
+    
+      <category term="分类" scheme="https://qiming.info/tags/%E5%88%86%E7%B1%BB/"/>
     
   </entry>
   
@@ -401,9 +401,9 @@
     
       <category term="Spark" scheme="https://qiming.info/tags/Spark/"/>
     
-      <category term="HDFS" scheme="https://qiming.info/tags/HDFS/"/>
-    
       <category term="RDD" scheme="https://qiming.info/tags/RDD/"/>
+    
+      <category term="HDFS" scheme="https://qiming.info/tags/HDFS/"/>
     
       <category term="Pearson" scheme="https://qiming.info/tags/Pearson/"/>
     
@@ -432,9 +432,9 @@
     
       <category term="Spark" scheme="https://qiming.info/tags/Spark/"/>
     
-      <category term="HDFS" scheme="https://qiming.info/tags/HDFS/"/>
-    
       <category term="RDD" scheme="https://qiming.info/tags/RDD/"/>
+    
+      <category term="HDFS" scheme="https://qiming.info/tags/HDFS/"/>
     
       <category term="mapreduce" scheme="https://qiming.info/tags/mapreduce/"/>
     
@@ -465,9 +465,9 @@
     
       <category term="Spark" scheme="https://qiming.info/tags/Spark/"/>
     
-      <category term="HDFS" scheme="https://qiming.info/tags/HDFS/"/>
-    
       <category term="RDD" scheme="https://qiming.info/tags/RDD/"/>
+    
+      <category term="HDFS" scheme="https://qiming.info/tags/HDFS/"/>
     
       <category term="Hadoop" scheme="https://qiming.info/tags/Hadoop/"/>
     

@@ -44,9 +44,9 @@
       
         <tags>
             
-            <tag> 分类 </tag>
-            
             <tag> 神经网络 </tag>
+            
+            <tag> 分类 </tag>
             
             <tag> TensorFlow </tag>
             
@@ -75,9 +75,9 @@
       
         <tags>
             
-            <tag> 分类 </tag>
-            
             <tag> 神经网络 </tag>
+            
+            <tag> 分类 </tag>
             
             <tag> TensorFlow </tag>
             
@@ -195,11 +195,11 @@
             
             <tag> Spark </tag>
             
+            <tag> 分类 </tag>
+            
             <tag> 特征转换 </tag>
             
             <tag> Pipeline </tag>
-            
-            <tag> 分类 </tag>
             
             <tag> 决策树 </tag>
             
@@ -226,9 +226,9 @@
             
             <tag> Spark </tag>
             
-            <tag> RDD </tag>
-            
             <tag> DataFrame </tag>
+            
+            <tag> RDD </tag>
             
             <tag> CSV </tag>
             
@@ -255,13 +255,13 @@
             
             <tag> Spark </tag>
             
-            <tag> 分类 </tag>
-            
             <tag> 神经网络 </tag>
             
             <tag> MLPC </tag>
             
             <tag> 多层感知器 </tag>
+            
+            <tag> 分类 </tag>
             
         </tags>
       
@@ -396,9 +396,9 @@
             
             <tag> Spark </tag>
             
-            <tag> HDFS </tag>
-            
             <tag> RDD </tag>
+            
+            <tag> HDFS </tag>
             
             <tag> Pearson </tag>
             
@@ -427,9 +427,9 @@
             
             <tag> Spark </tag>
             
-            <tag> HDFS </tag>
-            
             <tag> RDD </tag>
+            
+            <tag> HDFS </tag>
             
             <tag> mapreduce </tag>
             
@@ -456,9 +456,9 @@
             
             <tag> Spark </tag>
             
-            <tag> HDFS </tag>
-            
             <tag> RDD </tag>
+            
+            <tag> HDFS </tag>
             
             <tag> Hadoop </tag>
             
