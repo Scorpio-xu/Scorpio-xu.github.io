@@ -3,6 +3,35 @@
   
     
     <entry>
+      <title>深度学习基础——神经网络关键知识点简记</title>
+      <link href="/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80%E2%80%94%E2%80%94%E7%A5%9E%E7%BB%8F%E7%BD%91%E7%BB%9C%E5%85%B3%E9%94%AE%E7%9F%A5%E8%AF%86%E7%82%B9%E7%AE%80%E8%AE%B0/"/>
+      <url>/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80%E2%80%94%E2%80%94%E7%A5%9E%E7%BB%8F%E7%BD%91%E7%BB%9C%E5%85%B3%E9%94%AE%E7%9F%A5%E8%AF%86%E7%82%B9%E7%AE%80%E8%AE%B0/</url>
+      
+        <content type="html"><![CDATA[<p>前文中介绍了一些用TensorFlow实现神经网络的例子，但是如果你不懂神经网络的一些基础概念的话，会看得一头雾水。所以本文将介绍以下神经网络中常用的关键知识点：</p><ul><li>前向传播与误差反向传播</li><li>激活函数</li><li>softmax算法</li><li>损失函数</li><li>优化器</li></ul><p>当然侧重点还是在使用上，目的是让您理解使用的道理即可，不会涉及过多原理、底层算法知识等。</p><!--moee--><h1 id="1-神经元的拟合原理"><a href="#1-神经元的拟合原理" class="headerlink" title="1 神经元的拟合原理"></a>1 神经元的拟合原理</h1><h2 id="1-1-前向传播"><a href="#1-1-前向传播" class="headerlink" title="1.1 前向传播"></a>1.1 前向传播</h2><h2 id="1-2-BP算法介绍"><a href="#1-2-BP算法介绍" class="headerlink" title="1.2 BP算法介绍"></a>1.2 BP算法介绍</h2><h1 id="2-激活函数"><a href="#2-激活函数" class="headerlink" title="2 激活函数"></a>2 激活函数</h1><h2 id="2-1-sigmod"><a href="#2-1-sigmod" class="headerlink" title="2.1 sigmod"></a>2.1 sigmod</h2><h2 id="2-2-tanh"><a href="#2-2-tanh" class="headerlink" title="2.2 tanh"></a>2.2 tanh</h2><h2 id="2-3-relu"><a href="#2-3-relu" class="headerlink" title="2.3 relu"></a>2.3 relu</h2><h2 id="2-4-选择合适的激活函数"><a href="#2-4-选择合适的激活函数" class="headerlink" title="2.4 选择合适的激活函数"></a>2.4 选择合适的激活函数</h2><h1 id="3-softmax算法"><a href="#3-softmax算法" class="headerlink" title="3 softmax算法"></a>3 softmax算法</h1><h1 id="4-损失函数"><a href="#4-损失函数" class="headerlink" title="4 损失函数"></a>4 损失函数</h1><h2 id="4-1-二次代价函数"><a href="#4-1-二次代价函数" class="headerlink" title="4.1 二次代价函数"></a>4.1 二次代价函数</h2><h2 id="4-2-交叉熵"><a href="#4-2-交叉熵" class="headerlink" title="4.2 交叉熵"></a>4.2 交叉熵</h2><h2 id="4-3-选择合适的损失函数"><a href="#4-3-选择合适的损失函数" class="headerlink" title="4.3 选择合适的损失函数"></a>4.3 选择合适的损失函数</h2><h1 id="5-优化器"><a href="#5-优化器" class="headerlink" title="5 优化器"></a>5 优化器</h1><h2 id="5-1-梯度下降"><a href="#5-1-梯度下降" class="headerlink" title="5.1 梯度下降"></a>5.1 梯度下降</h2><h2 id="5-2-Adam"><a href="#5-2-Adam" class="headerlink" title="5.2 Adam"></a>5.2 Adam</h2><h2 id="5-3-TensorFlow中的优化器"><a href="#5-3-TensorFlow中的优化器" class="headerlink" title="5.3 TensorFlow中的优化器"></a>5.3 TensorFlow中的优化器</h2><h1 id="6-参考资料"><a href="#6-参考资料" class="headerlink" title="6 参考资料"></a>6 参考资料</h1><p>[1]李金洪.深度学习之TensorFlow:入门、原理与进阶实战[M].北京:机械工业出版社.2018-01</p><p>（未完待续）</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 深度学习 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 神经网络 </tag>
+            
+            <tag> 激活函数 </tag>
+            
+            <tag> 损失函数 </tag>
+            
+            <tag> softmax </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    <entry>
       <title>Hexo博客中加入代码块复制功能</title>
       <link href="/Hexo%E5%8D%9A%E5%AE%A2%E4%B8%AD%E5%8A%A0%E5%85%A5%E4%BB%A3%E7%A0%81%E5%9D%97%E5%A4%8D%E5%88%B6%E5%8A%9F%E8%83%BD/"/>
       <url>/Hexo%E5%8D%9A%E5%AE%A2%E4%B8%AD%E5%8A%A0%E5%85%A5%E4%BB%A3%E7%A0%81%E5%9D%97%E5%A4%8D%E5%88%B6%E5%8A%9F%E8%83%BD/</url>
@@ -44,13 +73,13 @@
       
         <tags>
             
-            <tag> 分类 </tag>
+            <tag> TensorFlow </tag>
             
             <tag> 神经网络 </tag>
             
-            <tag> TensorFlow </tag>
-            
             <tag> Python </tag>
+            
+            <tag> 分类 </tag>
             
             <tag> MNIST </tag>
             
@@ -75,15 +104,15 @@
       
         <tags>
             
-            <tag> 分类 </tag>
+            <tag> TensorFlow </tag>
             
             <tag> 神经网络 </tag>
-            
-            <tag> TensorFlow </tag>
             
             <tag> Python </tag>
             
             <tag> 回归 </tag>
+            
+            <tag> 分类 </tag>
             
             <tag> MNIST </tag>
             
@@ -108,9 +137,9 @@
       
         <tags>
             
-            <tag> 神经网络 </tag>
-            
             <tag> TensorFlow </tag>
+            
+            <tag> 神经网络 </tag>
             
             <tag> Python </tag>
             
@@ -195,11 +224,11 @@
             
             <tag> Spark </tag>
             
+            <tag> 分类 </tag>
+            
             <tag> 特征转换 </tag>
             
             <tag> Pipeline </tag>
-            
-            <tag> 分类 </tag>
             
             <tag> 决策树 </tag>
             
@@ -255,9 +284,9 @@
             
             <tag> Spark </tag>
             
-            <tag> 分类 </tag>
-            
             <tag> 神经网络 </tag>
+            
+            <tag> 分类 </tag>
             
             <tag> MLPC </tag>
             
