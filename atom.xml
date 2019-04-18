@@ -499,13 +499,13 @@
     
       <category term="Spark" scheme="https://qiming.info/tags/Spark/"/>
     
-      <category term="HDFS" scheme="https://qiming.info/tags/HDFS/"/>
-    
-      <category term="RDD" scheme="https://qiming.info/tags/RDD/"/>
-    
       <category term="Hadoop" scheme="https://qiming.info/tags/Hadoop/"/>
     
+      <category term="HDFS" scheme="https://qiming.info/tags/HDFS/"/>
+    
       <category term="HBase" scheme="https://qiming.info/tags/HBase/"/>
+    
+      <category term="RDD" scheme="https://qiming.info/tags/RDD/"/>
     
   </entry>
   

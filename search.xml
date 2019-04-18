@@ -516,13 +516,13 @@
             
             <tag> Spark </tag>
             
-            <tag> HDFS </tag>
-            
-            <tag> RDD </tag>
-            
             <tag> Hadoop </tag>
             
+            <tag> HDFS </tag>
+            
             <tag> HBase </tag>
+            
+            <tag> RDD </tag>
             
         </tags>
       
