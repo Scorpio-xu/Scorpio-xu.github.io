@@ -96,9 +96,9 @@
     
       <category term="分类" scheme="https://qiming.info/tags/%E5%88%86%E7%B1%BB/"/>
     
-      <category term="神经网络" scheme="https://qiming.info/tags/%E7%A5%9E%E7%BB%8F%E7%BD%91%E7%BB%9C/"/>
-    
       <category term="TensorFlow" scheme="https://qiming.info/tags/TensorFlow/"/>
+    
+      <category term="神经网络" scheme="https://qiming.info/tags/%E7%A5%9E%E7%BB%8F%E7%BD%91%E7%BB%9C/"/>
     
       <category term="Python" scheme="https://qiming.info/tags/Python/"/>
     
@@ -128,9 +128,9 @@
     
       <category term="分类" scheme="https://qiming.info/tags/%E5%88%86%E7%B1%BB/"/>
     
-      <category term="神经网络" scheme="https://qiming.info/tags/%E7%A5%9E%E7%BB%8F%E7%BD%91%E7%BB%9C/"/>
-    
       <category term="TensorFlow" scheme="https://qiming.info/tags/TensorFlow/"/>
+    
+      <category term="神经网络" scheme="https://qiming.info/tags/%E7%A5%9E%E7%BB%8F%E7%BD%91%E7%BB%9C/"/>
     
       <category term="Python" scheme="https://qiming.info/tags/Python/"/>
     
@@ -159,9 +159,9 @@
       <category term="深度学习" scheme="https://qiming.info/categories/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0/"/>
     
     
-      <category term="神经网络" scheme="https://qiming.info/tags/%E7%A5%9E%E7%BB%8F%E7%BD%91%E7%BB%9C/"/>
-    
       <category term="TensorFlow" scheme="https://qiming.info/tags/TensorFlow/"/>
+    
+      <category term="神经网络" scheme="https://qiming.info/tags/%E7%A5%9E%E7%BB%8F%E7%BD%91%E7%BB%9C/"/>
     
       <category term="Python" scheme="https://qiming.info/tags/Python/"/>
     
@@ -329,9 +329,9 @@
     
       <category term="Spark" scheme="https://qiming.info/tags/Spark/"/>
     
-      <category term="Hadoop" scheme="https://qiming.info/tags/Hadoop/"/>
-    
       <category term="集群" scheme="https://qiming.info/tags/%E9%9B%86%E7%BE%A4/"/>
+    
+      <category term="Hadoop" scheme="https://qiming.info/tags/Hadoop/"/>
     
   </entry>
   
