@@ -4,8 +4,8 @@ Allow: /
 Allow: /archives/
 Disallow: /vendors/
 Disallow: /js/
-Disallow: /css/
-Disallow: /fonts/
+Allow: /css/
+Allow: /fonts/
 Disallow: /vendors/
 Disallow: /fancybox/
 
