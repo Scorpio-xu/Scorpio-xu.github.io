@@ -72,13 +72,13 @@
       
         <tags>
             
+            <tag> 分类 </tag>
+            
             <tag> 神经网络 </tag>
             
             <tag> TensorFlow </tag>
             
             <tag> Python </tag>
-            
-            <tag> 分类 </tag>
             
             <tag> MNIST </tag>
             
@@ -105,17 +105,17 @@
       
         <tags>
             
+            <tag> 分类 </tag>
+            
             <tag> 神经网络 </tag>
             
             <tag> TensorFlow </tag>
             
             <tag> Python </tag>
             
-            <tag> 分类 </tag>
+            <tag> 回归 </tag>
             
             <tag> MNIST </tag>
-            
-            <tag> 回归 </tag>
             
         </tags>
       
@@ -231,11 +231,11 @@
             
             <tag> Spark </tag>
             
-            <tag> 分类 </tag>
-            
             <tag> 特征转换 </tag>
             
             <tag> Pipeline </tag>
+            
+            <tag> 分类 </tag>
             
             <tag> 决策树 </tag>
             
@@ -293,11 +293,11 @@
       
         <tags>
             
-            <tag> 神经网络 </tag>
-            
             <tag> Spark </tag>
             
             <tag> 分类 </tag>
+            
+            <tag> 神经网络 </tag>
             
             <tag> MLPC </tag>
             
@@ -328,9 +328,9 @@
             
             <tag> Spark </tag>
             
-            <tag> 集群 </tag>
-            
             <tag> Hadoop </tag>
+            
+            <tag> 集群 </tag>
             
         </tags>
       
