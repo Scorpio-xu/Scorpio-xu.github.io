@@ -257,9 +257,9 @@
     
       <category term="Spark" scheme="https://qiming.info/tags/Spark/"/>
     
-      <category term="DataFrame" scheme="https://qiming.info/tags/DataFrame/"/>
-    
       <category term="RDD" scheme="https://qiming.info/tags/RDD/"/>
+    
+      <category term="DataFrame" scheme="https://qiming.info/tags/DataFrame/"/>
     
       <category term="CSV" scheme="https://qiming.info/tags/CSV/"/>
     
@@ -421,9 +421,9 @@
     
       <category term="Spark" scheme="https://qiming.info/tags/Spark/"/>
     
-      <category term="RDD" scheme="https://qiming.info/tags/RDD/"/>
-    
       <category term="HDFS" scheme="https://qiming.info/tags/HDFS/"/>
+    
+      <category term="RDD" scheme="https://qiming.info/tags/RDD/"/>
     
       <category term="Pearson" scheme="https://qiming.info/tags/Pearson/"/>
     
@@ -452,9 +452,9 @@
     
       <category term="Spark" scheme="https://qiming.info/tags/Spark/"/>
     
-      <category term="RDD" scheme="https://qiming.info/tags/RDD/"/>
-    
       <category term="HDFS" scheme="https://qiming.info/tags/HDFS/"/>
+    
+      <category term="RDD" scheme="https://qiming.info/tags/RDD/"/>
     
       <category term="mapreduce" scheme="https://qiming.info/tags/mapreduce/"/>
     
@@ -485,13 +485,13 @@
     
       <category term="Spark" scheme="https://qiming.info/tags/Spark/"/>
     
-      <category term="RDD" scheme="https://qiming.info/tags/RDD/"/>
-    
       <category term="Hadoop" scheme="https://qiming.info/tags/Hadoop/"/>
     
       <category term="HDFS" scheme="https://qiming.info/tags/HDFS/"/>
     
       <category term="HBase" scheme="https://qiming.info/tags/HBase/"/>
+    
+      <category term="RDD" scheme="https://qiming.info/tags/RDD/"/>
     
   </entry>
   

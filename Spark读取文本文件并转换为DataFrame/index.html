@@ -125,7 +125,7 @@
 
 
   <meta name="description" content="Spark ML里的核心API已经由基于RDD换成了基于DataFrame，为了使读取到的值成为DataFrame类型，我们可以直接使用读取CSV的方式来读取文本文件，可问题来了，当文本文件中每一行的各个数据被不定数目的空格所隔开时，我们无法将这些不定数目的空格当作CSV文件的分隔符（因为Spark读取CSV文件时，不支持正则表达式作为分隔符），一个常用方法是先将数据读取为rdd，然后用map方法">
-<meta name="keywords" content="Spark,DataFrame,RDD,CSV">
+<meta name="keywords" content="Spark,RDD,DataFrame,CSV">
 <meta property="og:type" content="article">
 <meta property="og:title" content="Spark读取文本文件并转换为DataFrame">
 <meta property="og:url" content="https://qiming.info/Spark读取文本文件并转换为DataFrame/index.html">
@@ -608,7 +608,7 @@
         
       
       <div style="display: inline-block">
-        <img src="/images/wechatpay.png" alt="Xu Qiming 微信支付">
+        <img src="/images/wechatpay.png">
         <p>微信支付</p>
       </div>
     
@@ -617,7 +617,7 @@
         
       
       <div style="display: inline-block">
-        <img src="/images/alipay.jpg" alt="Xu Qiming 支付宝">
+        <img src="/images/alipay.jpg">
         <p>支付宝</p>
       </div>
     
@@ -660,9 +660,9 @@
           
             <a href="/tags/Spark/" rel="tag"><i class="fa fa-tag"></i> Spark</a>
           
-            <a href="/tags/DataFrame/" rel="tag"><i class="fa fa-tag"></i> DataFrame</a>
-          
             <a href="/tags/RDD/" rel="tag"><i class="fa fa-tag"></i> RDD</a>
+          
+            <a href="/tags/DataFrame/" rel="tag"><i class="fa fa-tag"></i> DataFrame</a>
           
             <a href="/tags/CSV/" rel="tag"><i class="fa fa-tag"></i> CSV</a>
           
